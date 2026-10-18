@@ -18,11 +18,13 @@ Process Lasso · MoggyDay · 18.4 · v18.4.0.48
 
 MoggyDay keeps one stable URL for Process Lasso: EN / RU. Process Lasso on Windows 10/11 x64. 6 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Open the site to download:** [EN](https://moggydayprogram.com/en/programs/process-lasso) · [RU](https://moggydayprogram.com/programs/process-lasso)
+
 ## Download
 
 1. Open [Process Lasso EN](https://moggydayprogram.com/en/programs/process-lasso) or [Process Lasso RU](https://moggydayprogram.com/programs/process-lasso).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Open the catalog card and download there. No package is attached here.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
